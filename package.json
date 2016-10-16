@@ -1,0 +1,31 @@
+{
+  "name": "tv4prov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D\u001b\u001b[3~\u001b[3~\u001b[3~\u001b[3~arbetsprovidol"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.0"
+  },
+  "dependencies": {
+    "async": "^2.1.1",
+    "chai": "^3.5.0",
+    "request": "^2.75.0"
+  }
+}
